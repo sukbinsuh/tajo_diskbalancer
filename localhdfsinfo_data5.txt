@@ -1,0 +1,12 @@
+-rw-rw-r--   1 hadoop hadoop    26418 Apr  3 06:24 blk_1191796201
+-rw-rw-r--   1 hadoop hadoop     8158 May 26  2016 blk_1107910256
+-rw-rw-r--   1 hadoop hadoop  1727126 Jul 28 23:14 blk_1107910345
+-rw-rw-r--   1 hadoop hadoop   314078 Jul 30 17:36 blk_1107910365
+-rw-rw-r--   1 hadoop hadoop 14672529 Aug  7 10:26 blk_1191796439
+-rw-rw-r--   1 hadoop hadoop    35664 Jan 11  2017 blk_1107910523
+-rw-rw-r--   1 hadoop hadoop     2616 Jun 15  2016 blk_1107910567
+-rw-rw-r--   1 hadoop hadoop   627303 Apr  3 06:28 blk_1191796482
+-rw-rw-r--   1 hadoop hadoop 15456930 Apr  3 06:29 blk_1191796554
+-rw-rw-r--   1 hadoop hadoop 14506920 Jul 29 06:15 blk_1191796722
+-rw-rw-r--   1 hadoop hadoop     6133 Aug 11  2015 blk_1091133462
+-rw-rw-r--   1 hadoop hadoop     6133 Aug 11  2015 blk_1111108402
